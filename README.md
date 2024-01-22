@@ -8,8 +8,6 @@ I am extremely passionate about Software Development and Artificial Intelligence
 
 I have experience with Full Stack Development, Infrastructure Development and I'm currently working with LLMs and other GenAI technologies.
 
-#### Socials
----
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/torychen/) or [Email](mailto:tory.chen@uwaterloo.ca)!
 
 
