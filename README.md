@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**Chen-To/Chen-To** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm Tory Chen, and I am a third year Computer Science student at the University of Waterloo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am extremely passionate about Software Development and Artificial Intelligence and I'm always eager to learn more about different technologies!
+
+I have experience with Full Stack Development, Infrastructure Development and I'm currently working with LLMs and other GenAI technologies.
+
+#### Socials
+---
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/torychen/) or [Email](mailto:tory.chen@uwaterloo.ca)!
+
+
+
+
